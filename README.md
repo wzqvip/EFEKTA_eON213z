@@ -6,7 +6,7 @@
 
 ## 禁止用于商业营利性生产,仅供个人使用
 
-#### 捐赠链接: [https://paypal.me/efektalab or just buy to support this project](https://paypal.me/efektalab or just buy to support this project)
+#### 捐赠链接: [https://paypal.me/efektalab](https://paypal.me/efektalab)
 
 #### 购买链接: [https://www.tindie.com/products/diyberk/indoor-climate-sensor-efekta-eon213-zigbee/](https://www.tindie.com/products/diyberk/indoor-climate-sensor-efekta-eon213-zigbee/)
 
